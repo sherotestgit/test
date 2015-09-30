@@ -7,5 +7,3 @@
  */
 
 echo "A";
-$renato = 5;
-println($renato);
