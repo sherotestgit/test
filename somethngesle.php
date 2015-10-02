@@ -1,3 +1,3 @@
 <?php
-    echo "Test 123 456";
+    echo "Test 123 4";
 ?>
